@@ -1,7 +1,7 @@
 ## Software Engineer 👋
 
-![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=esabie&show_icons=true&theme=radical) /n
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esabie&hide_progress=true&theme=radical)
+![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=esabie&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esabie&show_progress=true&theme=radical)
 
 <!--
 **esabie/esabie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
