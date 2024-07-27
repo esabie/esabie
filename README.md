@@ -1,6 +1,7 @@
 ## Software Engineer 👋
 
 [![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=esabie)](https://github.com/anuraghazra/github-readme-stats)
+![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=esabie&show_icons=true&theme=radical)
 
 <!--
 **esabie/esabie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
