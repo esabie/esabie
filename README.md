@@ -1,5 +1,7 @@
 ## Software Engineer 👋
 
+Welcome to my lesson repos and toy projects.
+
 ![Eugene's GitHub stats](https://github-readme-stats.vercel.app/api?username=esabie&show_icons=true&theme=radical)
 
 <a href="https://github.com/anuraghazra/convoychat">
